@@ -30,3 +30,18 @@ function multiply(a, b){
 ```
 
 ---
+
+### Experience:
+I don't have experience yet.
+
+---
+
+### Education:
+National mining university, Mining engineer.
+
+---
+
+### English:
+Elementary (A1).
+
+---
